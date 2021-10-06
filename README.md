@@ -14,4 +14,8 @@ Install visual studio C++ build tools 14.0.0 or later.
 
 Viewing tensorboard to get the training graph.
 
-![tensorboard_training_graph](https://user-images.githubusercontent.com/90828580/134519918-db8269c5-bc68-4de3-9906-3aa7fb78b5f7.JPG)
+
+
+
+https://user-images.githubusercontent.com/90828580/136178959-5f33a97c-cd22-440a-9885-64eaafc2150c.mp4
+
